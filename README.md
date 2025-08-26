@@ -32,7 +32,7 @@ This project is designed for ethical hacking education, red team training, and c
 ### 1. Clone the repo
 
 ```bash
-~/ git clone https://github.com/yourusername/botnet
+~/ git clone https://github.com/3-6-9-0d/botnet
 ~/ cd botnet
 ```
 ### 2. Start C2 Server
