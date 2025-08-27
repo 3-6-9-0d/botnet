@@ -1,11 +1,3 @@
-"""
-[!] EDUCATIONAL USE ONLY
-
-This script is part of a demonstration to show how botnet-based miners work.
-It is intended for cybersecurity education and ethical hacking awareness.
-Do NOT use this in unauthorized environments. Doing so may violate laws.
-"""
-
 import socket, select
 
 HOST = "127.0.0.1"
@@ -56,3 +48,4 @@ while True:
         break
 
 server.close()
+
