@@ -13,7 +13,7 @@ This project is designed for ethical hacking education, red team training, and c
 - Downloading and launching a miner (XMRig)
 - Adding persistence to Windows startup
 - System resource monitoring using built-in tools
-- Controlling miner CPU usage (e.g., limit to 60%)
+- Controlling miner CPU usage (to be added soon)
 - A basic socket-based bot/client structure
 
 ---
